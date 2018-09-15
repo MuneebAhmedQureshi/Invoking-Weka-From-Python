@@ -1,29 +1,41 @@
 # Invoking-Weka-From-Python
-Getting started with Python Weka Wrapper using Python<br>
-<br><b>Installing Anaconda for Python</b><br>
+Getting started with Python Weka Wrapper using Python<br><br>
+Code for generation and plotaion of <br><br>
+<ul>
+  <li>Confusion Matrix using ZeroR</li>
+  <li>Classifier Errors using Linear Regression</li>
+  <li>False Positive and True Negative using Naive Bayes<li>
+</ul>
+<br>are given in<br>
+<ul>
+  <li>weka-from-moocs.ipynb</li>
+  <li>weka-from-moocs-graphs.ipynb</li>
+  <li>weka-from-moocs-curves.ipynb</li>
+</ul>
+<b>Installing Anaconda for Python</b><br>
 Follow this link and download Anaconda<br>
 <a>https://www.anaconda.com/download/</a><br>
 <br><b>Installing Required Packages</b><br>
 To invoke Weka from Python these packages are required<br>
 <ul>
-<li>Pip</li>
-<li>Numpy</li>
-<li>Imaging (Optional)</li>
-<li>Matplotlib</li>
-<li>Pygraphviz(Optional)</li>
-<li>Javabridge</li>
-<li>Python Weka Wrapper</li>
+  <li>Pip</li>
+  <li>Numpy</li>
+  <li>Imaging (Optional)</li>
+  <li>Matplotlib</li>
+  <li>Pygraphviz(Optional)</li>
+  <li>Javabridge</li>
+  <li>Python Weka Wrapper</li>
 </ul><br>
 These packages come preinstalled in Anaconda<br>
 <ul>
-<li>Pip</li>
-<li>Numpy</li>
-<li>Matplotlib</li>
+  <li>Pip</li>
+  <li>Numpy</li>
+  <li>Matplotlib</li>
 </ul><br>
 These packages are to be installed by user<br>
 <ul>
-<li>Javabridge</li>
-<li>Python-weka-wrapper</li>
+  <li>Javabridge</li>
+  <li>Python-weka-wrapper</li>
 </ul><br>
 <b>Installing Javabridge on Windows</b><br><br>
 Open <b>Start Menu</b>, search and open <b>Anaconda Prompt</b><br><br>
@@ -48,3 +60,14 @@ As explained in WekaMOOCS Official channel's demonstaration<br><br>
 https://www.youtube.com/watch?v=YT72KkkfD3w<br><br>
 Jupyter Notebook Files of all codes used in this video are provided.<br><br>
 Datasets used in this video are also provided.<br><br>
+<b>Setting Environment Variable MOOC_DATA on Windows 7</b><br><br>
+Right Click on My PC<br><br>
+Select Properties<br><br>
+Click on Advanced System Settings<br><br>
+Click on Environment Variables<br><br>
+Under System Variables click New<br><br>
+Set variable name to MOOC_DATA or whatever you want to use in your program<br><br>
+Set variable value to the <b>full path of folder containg weka datasets e.g C:\Users\hp\Documents\WekaDatasets\</b><br><br>
+Click OK and OK and OK<br><br>
+Now you can check if environment variable is set by running this command in CMD <b>echo %MOOC_DATA%</b><br><br>
+<b>Everything is set<b>
