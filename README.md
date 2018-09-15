@@ -1,10 +1,10 @@
 # Using Weka and Python for Data Mining
 # Integration of Python and Python-weka-wrapper
-Sample Code with explanation for generation and plotaion of <br>
+Sample Code with explanation for generation and graphical representation of <br>
 <ul>
-  <li>Confusion Matrix using ZeroR</li>
-  <li>Classifier Errors using Linear Regression</li>
-  <li>False Positive and True Negative using Naive Bayes</li>
+  <li>Confusion Matrix of ZeroR</li>
+  <li>Classifier Errors of Linear Regression</li>
+  <li>ROC Curve of Naive Bayes</li>
 </ul>
 <br>are given in<br><br>
 <ul>
