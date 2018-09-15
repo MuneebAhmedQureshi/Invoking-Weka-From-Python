@@ -42,9 +42,9 @@ For Python-2.*<br> <br>
 Run pip install python-weka-wrapper<br><br>
 For Python-3.*<br><br>
 Run pip install python-weka-wrapper3<br><br>
-<b>Weka Library and Python are now successfully installed</b><br><br>
+Weka Library and Python are now successfully installed<br><br>
 <b>Provided Helping Material</b><br><br>
-As explained in WekaMOOCS Official channels demonstaration<br><br>
+As explained in WekaMOOCS Official channel's demonstaration<br><br>
 https://www.youtube.com/watch?v=YT72KkkfD3w<br><br>
 Jupyter Notebook Files of all codes used in this video are provided.<br><br>
 Datasets used in this video are also provided.<br><br>
