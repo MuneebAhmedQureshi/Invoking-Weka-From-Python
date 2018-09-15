@@ -1,5 +1,5 @@
 # Invoking-Weka-From-Python
-A complete guide on installing, integrating and invoking Weka from Python<br>
+Getting started with Python Weka Wrapper using Python<br>
 <br><b>Installing Anaconda for Python</b><br>
 Follow this link and download Anaconda<br>
 <a>https://www.anaconda.com/download/</a><br>
@@ -27,10 +27,15 @@ These packages are to be installed by user<br>
 </ul><br>
 <b>Installing Javabridge on Windows</b><br><br>
 Open <b>Start Menu</b>, search and open <b>Anaconda Prompt</b><br><br>
-Run conda --verison to check if Anaconda is properly installed<br><br>
-Run pip install javabridge<br><br>
-If it returns error: Microsoft Visual C++ Version 14.0.0 is required, open Control Panle-> Uninsall A Program and Uninstall all instances of Visual Studio and Microsoft Visual C++<br><br>
-Follow <a href="https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=Community&rel=15#">this</a> link it will download the required version of Microsoft Visual C++<br><br>
+Run <b>conda --verison</b> to check if Anaconda is properly installed<br><br>
+Run <b>pip install javabridge</b><br><br>
+If it returns error:
+<ul>
+<li>Microsoft Visual C++ Version 14.0.0 is required, open Control Panel</li><br>
+<b>-->></b>Navigate to <b>Control Panel -> Uninsall A Program</b> and Uninstall all instances of Visual Studio and Microsoft Visual C++ you can find. Then, follow <a href="https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=Community&rel=15#" style="margin: 0px !important">this</a> link it will download the required version of Microsoft Visual C++<br><br>
+<li>Could not find a version that satisfies the requirement <package name> (from versions: ) No matching distribution found for <package name> You are using pip version <n>, however version <n++> is available. You should consider upgrading via the 'python -m pip install --upgrade pip' command</li>
+<br><b>-->></b>Run and keep running this command <b>python -m pip install --upgrade pip</b> in Anaconda Prompt until this error is resolved. Pip is sometime upgraded in a few steps.<br><br>
+</ul>
 Now try installing javabridge again, hopefully it will be installed.<br><br>
 <b>Installing Python Weka Wrapper</b><br><br>
 For Python-2.*<br> <br>
