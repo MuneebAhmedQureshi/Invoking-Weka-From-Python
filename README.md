@@ -30,7 +30,7 @@ Open <b>Start Menu</b>, search and open <b>Anaconda Prompt</b><br><br>
 Run conda --verison to check if Anaconda is properly installed<br><br>
 Run pip install javabridge<br><br>
 If it returns error: Microsoft Visual C++ Version 14.0.0 is required, open Control Panle-> Uninsall A Program and Uninstall all instances of Visual Studio and Microsoft Visual C++<br><br>
-Folow <a href="https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=Community&rel=15#">this</a> link it will download the required version of Microsoft Visual C++<br><br>
+Follow <a href="https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=Community&rel=15#">this</a> link it will download the required version of Microsoft Visual C++<br><br>
 Now try installing javabridge again, hopefully it will be installed.<br><br>
 <b>Installing Python Weka Wrapper</b><br><br>
 For Python-2.*<br> <br>
