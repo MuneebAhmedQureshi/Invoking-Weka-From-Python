@@ -1,5 +1,5 @@
-# Python Weka Wrapper for Data Mining
-# Integratrion of Python with Python-weka-wrapper
+# Using Weka and Python for Data Mining
+# Integration of Python and Python-weka-wrapper
 Sample Code with explanation for generation and plotaion of <br>
 <ul>
   <li>Confusion Matrix using ZeroR</li>
@@ -15,13 +15,11 @@ Sample Code with explanation for generation and plotaion of <br>
 
 # Installing Anaconda for Python
 
-<br><br>
 Follow this link and download Anaconda<br>
 <a>https://www.anaconda.com/download/</a><br><br>
 
 # Required Packages
 
-<br><br>
 To invoke Weka from Python these packages are required<br>
 <ul>
   <li>Pip</li>
@@ -46,7 +44,6 @@ These packages are to be installed by user<br>
 
 # Installing Javabridge on Windows
 
-<br><br>
 Open <b>Start Menu</b>, search and open <b>Anaconda Prompt</b><br><br>
 Run <b>conda --verison</b> to check if Anaconda is properly installed<br><br>
 Run <b>pip install javabridge</b><br><br>
@@ -58,7 +55,9 @@ If it returns error:<br><br>
 <br><b>-->></b>Run and keep running this command <b>python -m pip install --upgrade pip</b> in Anaconda Prompt until this error is resolved. Pip is sometime upgraded in a few steps.<br><br>
 </ul>
 Now try installing javabridge again, hopefully it will be installed.<br><br>
-<b>Installing Python Weka Wrapper</b><br><br>
+
+# Installing Python Weka Wrapper
+
 For Python-2.*<br> <br>
 Run pip install python-weka-wrapper<br><br>
 For Python-3.*<br><br>
@@ -67,7 +66,6 @@ Weka Library and Python are now successfully installed<br><br>
 
 # Setting Environment Variable MOOC_DATA on Windows 7
 
-<br><br>
 Right Click on My PC<br><br>
 Select Properties<br><br>
 Click on Advanced System Settings<br><br>
@@ -81,7 +79,6 @@ Now you can check if environment variable is set by running this command in CMD 
 
 # Provided Helping Material 
 
-<br><br>
 As explained in WekaMOOCS Official channel's demonstaration<br><br>
 https://www.youtube.com/watch?v=YT72KkkfD3w<br><br>
 Jupyter Notebook Files of all codes used in this video are provided.<br><br>
