@@ -4,9 +4,9 @@ Code for generation and plotaion of <br><br>
 <ul>
   <li>Confusion Matrix using ZeroR</li>
   <li>Classifier Errors using Linear Regression</li>
-  <li>False Positive and True Negative using Naive Bayes<li>
+  <li>False Positive and True Negative using Naive Bayes</li>
 </ul>
-<br>are given in<br>
+<br>are given in<br><br>
 <ul>
   <li>weka-from-moocs.ipynb</li>
   <li>weka-from-moocs-graphs.ipynb</li>
