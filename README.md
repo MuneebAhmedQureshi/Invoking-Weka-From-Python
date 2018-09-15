@@ -73,10 +73,10 @@ Click on Advanced System Settings<br><br>
 Click on Environment Variables<br><br>
 Under System Variables click New<br><br>
 Set variable name to MOOC_DATA or whatever you want to use in your program<br><br>
-Set variable value to the <b>full path of folder containg weka datasets e.g C:\Users\hp\Documents\WekaDatasets\ </b><br><br>
+Set variable value to the <b>full path of folder containg weka datasets</b> e.g C:\Users\hp\Documents\WekaDatasets\ <br><br>
 Click OK and OK and OK<br><br>
 Now you can check if environment variable is set by running this command in CMD <b>echo %MOOC_DATA% </b><br><br>
-<b>Everything is set<b>
+<b>Everything is set and ready to be executed</b>
 
 # Provided Helping Material 
 
