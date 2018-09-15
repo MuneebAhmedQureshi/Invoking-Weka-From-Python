@@ -1,6 +1,7 @@
-# Invoking-Weka-From-Python
+# Python Weka Wrapper for Data Mining
+# Integratrion of Python with Python-weka-wrapper
 Getting started with Python Weka Wrapper using Python<br><br>
-Code for generation and plotaion of <br>
+Sample Code with explanation for generation and plotaion of <br>
 <ul>
   <li>Confusion Matrix using ZeroR</li>
   <li>Classifier Errors using Linear Regression</li>
@@ -41,7 +42,7 @@ These packages are to be installed by user<br>
 Open <b>Start Menu</b>, search and open <b>Anaconda Prompt</b><br><br>
 Run <b>conda --verison</b> to check if Anaconda is properly installed<br><br>
 Run <b>pip install javabridge</b><br><br>
-If it returns error:<br>
+If it returns error:<br><br>
 <ul>
 <li>Microsoft Visual C++ Version 14.0.0 is required, open Control Panel</li><br>
 <b>-->></b>Navigate to <b>Control Panel -> Uninsall A Program</b> and Uninstall all instances of Visual Studio and Microsoft Visual C++ you can find. Then, follow <a href="https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=Community&rel=15#" style="margin: 0px !important">this</a> link it will download the required version of Microsoft Visual C++<br><br>
