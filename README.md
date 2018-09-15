@@ -17,7 +17,7 @@ Sample Code with explanation for generation and graphical representation of <br>
 
 Follow this link and download Anaconda<br>
 <a>https://www.anaconda.com/download/</a><br>
-Click on downloaded to anaconda.*.exe file to install<br><br>
+Click on downloaded .exe file to install<br><br>
 
 # Required Packages
 
