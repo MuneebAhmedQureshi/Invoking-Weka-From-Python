@@ -43,4 +43,4 @@ As explained in WekaMOOCS Official channels demonstaration<br><br>
 https://www.youtube.com/watch?v=YT72KkkfD3w<br><br>
 All codes used in this video are provided.<br><br>
 Datasets used in this video are also provided.<br><br>
-Jupyter Notebook Files as well as text files of python code are also provided.<br>
+Jupyter Notebook Files of python code are also provided.<br>
