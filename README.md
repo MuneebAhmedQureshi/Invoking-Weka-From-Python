@@ -16,8 +16,8 @@ Sample Code with explanation for generation and plotaion of <br>
 # Installing Anaconda for Python
 
 Follow this link and download Anaconda<br>
-<a>https://www.anaconda.com/download/</a><br><br>
-CLick on downloaded to anaconda.*.exe file to install<br><br>
+<a>https://www.anaconda.com/download/</a><br>
+Click on downloaded to anaconda.*.exe file to install<br><br>
 
 # Required Packages
 
