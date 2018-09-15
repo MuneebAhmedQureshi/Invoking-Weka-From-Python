@@ -1,5 +1,5 @@
 # Invoking-Weka-From-Python
-Getting started with Python Weka Wrapper using Python<br><br>
+Getting started with Python Weka Wrapper using Python<br>
 Code for generation and plotaion of <br><br>
 <ul>
   <li>Confusion Matrix using ZeroR</li>
@@ -12,10 +12,10 @@ Code for generation and plotaion of <br><br>
   <li>weka-from-moocs-graphs.ipynb</li>
   <li>weka-from-moocs-curves.ipynb</li>
 </ul>
-<b>Installing Anaconda for Python</b><br>
+<b>Installing Anaconda for Python</b><br><br>
 Follow this link and download Anaconda<br>
 <a>https://www.anaconda.com/download/</a><br>
-<br><b>Installing Required Packages</b><br>
+<br><b>Installing Required Packages</b><br><br>
 To invoke Weka from Python these packages are required<br>
 <ul>
   <li>Pip</li>
