@@ -1,6 +1,5 @@
 # Python Weka Wrapper for Data Mining
 # Integratrion of Python with Python-weka-wrapper
-Getting started with Python Weka Wrapper using Python<br><br>
 Sample Code with explanation for generation and plotaion of <br>
 <ul>
   <li>Confusion Matrix using ZeroR</li>
@@ -13,10 +12,10 @@ Sample Code with explanation for generation and plotaion of <br>
   <li>weka-from-moocs-graphs.ipynb</li>
   <li>weka-from-moocs-curves.ipynb</li>
 </ul>
-<b>Installing Anaconda for Python</b><br><br>
+# Installing Anaconda for Python<br><br>
 Follow this link and download Anaconda<br>
-<a>https://www.anaconda.com/download/</a><br>
-<br><b>Installing Required Packages</b><br><br>
+<a>https://www.anaconda.com/download/</a><br><br>
+# Required Packages<br><br>
 To invoke Weka from Python these packages are required<br>
 <ul>
   <li>Pip</li>
@@ -38,7 +37,7 @@ These packages are to be installed by user<br>
   <li>Javabridge</li>
   <li>Python-weka-wrapper</li>
 </ul><br>
-<b>Installing Javabridge on Windows</b><br><br>
+# Installing Javabridge on Windows<br><br>
 Open <b>Start Menu</b>, search and open <b>Anaconda Prompt</b><br><br>
 Run <b>conda --verison</b> to check if Anaconda is properly installed<br><br>
 Run <b>pip install javabridge</b><br><br>
@@ -56,7 +55,8 @@ Run pip install python-weka-wrapper<br><br>
 For Python-3.*<br><br>
 Run pip install python-weka-wrapper3<br><br>
 Weka Library and Python are now successfully installed<br><br>
-<b>Provided Helping Material</b><br><br>
+
+# Provided Helping Material <br><br>
 As explained in WekaMOOCS Official channel's demonstaration<br><br>
 https://www.youtube.com/watch?v=YT72KkkfD3w<br><br>
 Jupyter Notebook Files of all codes used in this video are provided.<br><br>
