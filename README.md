@@ -59,14 +59,14 @@ Now try installing javabridge again, hopefully it will be installed.<br><br>
 
 # Installing Python Weka Wrapper
 
-For Python-2.*<br> <br>
-Run pip install python-weka-wrapper<br><br>
-For Python-3.*<br><br>
-Run pip install python-weka-wrapper3<br><br>
+For Python-2 and below<br> <br>
+Run <b>pip install python-weka-wrapper</b><br><br>
+For Python-3 and above<br><br>
+Run <b>pip install python-weka-wrapper3</b><br><br>
 Weka Library and Python are now successfully installed<br><br>
 
-# Setting Environment Variable MOOC_DATA on Windows 7
-
+# Setting Environment Variable MOOC_DATA
+It is set just for understanding purpose, you can access files directly also.<br><br>
 Right Click on My PC<br><br>
 Select Properties<br><br>
 Click on Advanced System Settings<br><br>
