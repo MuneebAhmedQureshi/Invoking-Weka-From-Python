@@ -25,9 +25,9 @@ To invoke Weka from Python these packages are required<br>
 <ul>
   <li>Pip</li>
   <li>Numpy</li>
-  <li>Imaging (Optional)</li>
+  <li>Imaging</li>
   <li>Matplotlib</li>
-  <li>Pygraphviz(Optional)</li>
+  <li>Pygraphviz</li>
   <li>Javabridge</li>
   <li>Python Weka Wrapper</li>
 </ul><br>
@@ -43,10 +43,13 @@ These packages are to be installed by user<br>
   <li>Python-weka-wrapper</li>
 </ul><br>
 
-# Installing Javabridge on Windows
+#Installing Imaging
 
 Open <b>Start Menu</b>, search and open <b>Anaconda Prompt</b><br><br>
-Run <b>conda --verison</b> to check if Anaconda is properly installed<br><br>
+Run <b>pip install pillow</b>
+
+# Installing Javabridge on Windows
+
 Run <b>pip install javabridge</b><br><br>
 If it returns error:<br><br>
 <ul>
