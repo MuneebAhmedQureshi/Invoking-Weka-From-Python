@@ -43,7 +43,7 @@ These packages are to be installed by user<br>
   <li>Python-weka-wrapper</li>
 </ul><br>
 
-#Installing Imaging
+# Installing Imaging
 
 Open <b>Start Menu</b>, search and open <b>Anaconda Prompt</b><br><br>
 Run <b>pip install pillow</b>
